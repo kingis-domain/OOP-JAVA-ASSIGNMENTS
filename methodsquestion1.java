@@ -1,0 +1,22 @@
+public class VacationCost {
+
+    // we first calculate cost
+    static double calculateTotalCost(double accommodationCost, double mealCost, double activityCost) {
+      
+        return accommodationCost + mealCost + activityCost;
+      
+    }
+
+    public static void main(String[] args) {
+      
+        // input data
+      
+        double accommodation = 800.50;
+        double meals = 350.25;
+        double activities = 300.00;
+
+        double totalCost = calculateTotalCost(accommodation, meals, activities);
+
+        System.out.println("Total Vacation Cost: $" + totalCost);
+    }
+}

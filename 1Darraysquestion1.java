@@ -1,6 +1,6 @@
 public class OneDArrayExample {
     public static void main(String[] args) {
-
+//Ned Warutumo J77-10574-2024 
         // part a. declaring and initializing 1D array
         int[] numbers = {5, 10, 15, 20, 25};
 

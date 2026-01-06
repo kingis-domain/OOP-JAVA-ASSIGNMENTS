@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Ned Warutumo J77-10574-2024
 public class Assignment1sept{
     public static void main(String[]args){
         Scanner scanner= new Scanner(System.in);

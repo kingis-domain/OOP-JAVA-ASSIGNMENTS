@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+//Ned Warutumo J77-10574-2024
 public class Discount {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

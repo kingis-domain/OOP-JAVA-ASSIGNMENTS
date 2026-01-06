@@ -1,6 +1,6 @@
 public class TwoDStudentMarks {
     public static void main(String[] args) {
-        
+        //Ned Warutumo J77-10574-2024
         // declaring and initializing of 2D array with student marks
         int[][] marks = {
             {80, 70, 90},

@@ -1,6 +1,6 @@
 public class ShoppingCart {
     public static void main(String[] args) {
-        
+      //Ned Warutumo J77-10574-2024  
         // the prices of 6 items
         int[] prices = {120, 80, 150, 60, 200, 90};
         

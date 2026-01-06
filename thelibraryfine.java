@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Ned Warutumo J77-10574-2024
 public class LibraryFine {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

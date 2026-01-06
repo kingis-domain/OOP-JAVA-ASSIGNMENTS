@@ -1,6 +1,6 @@
 public class StudentMarksTable {
     public static void main(String[] args) {
-        
+        //Ned Warutumo J77-10574-2024
         // 3 students with 3 subject marks each
         int[][] studentMarks = {
             {75, 80, 90},  // Student 1
